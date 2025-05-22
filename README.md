@@ -15,8 +15,8 @@ Search for books by title, description, author, or publisher keywords
 * Easy-to-use interactive command-line interface
 
 * Works with CSV book datasets (tested on Kaggle Books Dataset)
-
-  ----------------------------------------------------------------------------------------------------
+  
+ ----------------------------------------------------------------------------------------------------
 
 🛠️ Technologies Used
 Python 3.x
