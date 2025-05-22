@@ -32,7 +32,7 @@ NLTK (Natural Language Toolkit)
 📦 Dataset
 Download a books dataset in CSV format.
 
-Example: Kaggle Books Dataset
+Link: https://www.kaggle.com/datasets/elvinrustam/books-dataset
 
 Upload your dataset ZIP file (containing the CSV) to your environment (e.g., Google Colab, Jupyter).
 
